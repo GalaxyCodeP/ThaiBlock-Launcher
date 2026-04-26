@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "releaseTag": "thaiblock-patch-v1",
+  "minecraft": "1.21.10",
+  "fabricLoader": "0.16.10",
+  "generatedAt": "2026-04-26T23:40:00+07:00",
+  "notes": "Initial auto-update manifest for THAIBLOCK Client Patch.",
+  "categories": {
+    "mods": [
+      {
+        "name": "thaiblock-client-1.0.0.jar",
+        "path": "thaiblock-client-1.0.0.jar",
+        "url": "ใส่_URL_RAW_ของ_ไฟล์_JAR_จาก_GitHub_ตรงนี้",
+        "sha1": "2226ff99e8b18fe5f9da3f040bb50958e4faa7a7",
+        "size": 0
+      }
+    ],
+    "resourcepacks": [],
+    "configs": []
+  }
+}
